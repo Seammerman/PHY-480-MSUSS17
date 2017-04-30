@@ -1,0 +1,21 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Exercises/cpptest.cpp
+#	new file:   Exercises/cpptest.exe
+#	new file:   Exercises/cpptest.obj
+#	new file:   Exercises/testout1.txt
+#	new file:   Exercises/testout2.txt
+#	new file:   Exercises/testout3.txt
+#	new file:   Exercises/testout4.txt
+#	new file:   Project 1/eqnsolver.py
+#	new file:   project_one_phy480
+#
+# Changes not staged for commit:
+#	modified:   project_one_phy480 (modified content, untracked content)
+#
+
